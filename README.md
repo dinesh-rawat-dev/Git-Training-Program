@@ -1,2 +1,2 @@
-# Git Training Program
+# GitTrainingProgram
 aa
